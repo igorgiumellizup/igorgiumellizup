@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img src='badges/desenvolvimento_seguro.png' alt='badges/desenvolvimento_seguro.png' width='160px' />
 <img src='badges/regulatorios.png' alt='badges/regulatorios.png' width='160px' />
-<img src='badges/ssdlc.png' alt='badges/ssdlc.png' width='160px' />
+<img src='badges/ssdlc.png' alt='badges/ssdlc.png' width='160px' /><img src='badges/cloudsec.png' alt='badges/cloudsec.png' width='160px' />
